@@ -1,0 +1,15 @@
+
+
+train: F:\model\yolo11\my-data\GD_enhance\images\train_en
+val: F:\model\yolo11\my-data\GD_enhance\images\val_en
+test: F:\model\yolo11\my-data\GD_enhance\images\test_en
+
+# Classes
+names:
+  0: crazing
+  1: patches
+  2: inclusion
+  3: pitted surface
+  4: rolled-in scale
+  5: scratches
+
